@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+capturas/
+robotica_erros.log
+*.egg-info/
